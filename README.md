@@ -3,7 +3,7 @@
 
 ``` 
 
-git clone https://github.com/lixuande/countcodeline.git
+git clone https://github.com/lixuande/shell.git
 cd countcodeline
 sh countcodeline.sh xxxx
 
@@ -17,7 +17,7 @@ sh countcodeline.sh xxxx
 
 ``` 
 
-git clone https://github.com/lixuande/countcodeline.git
+git clone https://github.com/lixuande/shell.git
 cd countcodeline
 sh deletelogfile.sh xxxx
 
